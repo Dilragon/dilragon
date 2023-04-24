@@ -8,8 +8,8 @@
     <meta name="description" content="Главная страница сайта Dilragon">
     <link rel="stylesheet" type="text/css" href="style1.css" rel="stylesheet">
     <style>
-      h1 {
-          visibility: collapse;
+      div.container-lg {
+        visibility: collapse;
       }
     </style>
   </head>
