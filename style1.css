@@ -52,15 +52,16 @@ p {
   
   
   body {
-     justify-content: center;
-      align-items: center;
-      background: var(--cover) center;
-      color: var(--text2);
-      background-size: cover;
-      padding: 0;
-      margin: 0;
-      background-attachment: fixed;
-      background-image: url("https://desu.shikimori.me/system/user_images/original/639050/1505858.jpg");
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    background: var(--cover) center;
+    color: var(--text2);
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    background-attachment: fixed;
+    background-image: url("https://desu.shikimori.me/system/user_images/original/639050/1505858.jpg");
   }
   
   
