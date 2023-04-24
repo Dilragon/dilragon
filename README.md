@@ -9,17 +9,17 @@
     <link rel="stylesheet" type="text/css" href="style1.css" rel="stylesheet">
     <style>
       h1 {
-        visibility: collapse;
+          visibility: collapse;
       }
     </style>
   </head>
   <body>
     <!--Меню сайта-->
     <div class="icon-bar">
-      <a class="active" href="dilragon.github.com"><i class="fa fa-home"></i></a> 
-      <a href="https://github.com/Dilragon" target="_blank"><i class="fa fa-github"></i></a> 
-      <a href="my-stories.html"><i class="fa fa-book"></i></a> 
-      <a href="player.html"><i class="fa fa-play"></i></a> 
+      <a class="active" href="dilragon.github.com"><i class="fa fa-home"></i> Home</a> 
+      <a href="https://github.com/Dilragon" target="_blank"><i class="fa fa-github"></i> Github</a> 
+      <a href="my-stories.html"><i class="fa fa-book"></i> Stories</a> 
+      <a href="player.html"><i class="fa fa-play"></i> Player</a> 
     </div>
   </body>
 </html>
