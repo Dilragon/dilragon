@@ -7,11 +7,6 @@
     <link href="icon2.png" rel="shortcut icon" type="image/x-icon">
     <meta name="description" content="Главная страница сайта Dilragon">
     <link rel="stylesheet" type="text/css" href="style1.css" rel="stylesheet">
-    <style>
-      h1 {
-          visibility: collapse;
-      }
-    </style>
   </head>
   <body>
     <!--Меню сайта-->
