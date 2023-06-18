@@ -248,7 +248,10 @@ li {
 section {
     margin: 20px;
     margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
     padding: 20px;
     line-height: 2;
     background: var(--bg);
 }
+
