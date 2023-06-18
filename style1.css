@@ -16,7 +16,7 @@
 
 ::selection {
     color: black;
-    background: red;
+    background: darkred;
 }
 
 h1 {
@@ -241,8 +241,13 @@ li {
     background-color: rgb(255, 145, 0);
 }
 
-.container {
+.chapter_heading {
+    margin-bottom: 50px;
+}
+
+section {
     margin: 20px;
+    margin-top: 50px;
     padding: 20px;
     line-height: 2;
     background: var(--bg);
