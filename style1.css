@@ -48,7 +48,6 @@ a {
 }
   
 body {
-    display: flex;
     text-decoration: none;
     justify-content: center;
     align-items: center;
