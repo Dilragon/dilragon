@@ -188,10 +188,11 @@ li {
 
 .menu_button {
     align-items: center;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
+    position: absolute;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 40%;
 }
 
 .menu a {
@@ -244,7 +245,7 @@ li {
     margin-bottom: 50px;
 }
 
-section {
+.content {
     margin: 20px;
     margin-top: 50px;
     margin-left: 0px;
